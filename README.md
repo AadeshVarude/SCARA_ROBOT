@@ -1,5 +1,5 @@
 # SCARA_ROBOT
-This repository contains design of scara robot in gazebo, and implementation of forward and inverse kinematics, and PID control and velocity control implmentaion
+This repository contains design of scara robot in gazebo, and implementation of forward and inverse kinematics, and PID control and velocity control implmentaion in Gazebo Simualtion using Python and ROS2.
 
 
 # Video Results:
