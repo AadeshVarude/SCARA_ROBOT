@@ -1,0 +1,8 @@
+running egg_info
+creating ../../../build/varude_hw3/varude_hw3.egg-info
+writing ../../../build/varude_hw3/varude_hw3.egg-info/PKG-INFO
+writing dependency_links to ../../../build/varude_hw3/varude_hw3.egg-info/dependency_links.txt
+writing entry points to ../../../build/varude_hw3/varude_hw3.egg-info/entry_points.txt
+writing requirements to ../../../build/varude_hw3/varude_hw3.egg-info/requires.txt
+writing top-level names to ../../../build/varude_hw3/varude_hw3.egg-info/top_level.txt
+writing manifest file '../../../build/varude_hw3/varude_hw3.egg-info/SOURCES.txt'

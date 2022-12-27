@@ -1,0 +1,33 @@
+[0.644s] Invoking command in '/home/aadesh/proj_ws/src/rrbot_simulation_files/rrbot_simulation_files/fk': PYTHONPATH=/home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/fk build --build-base /home/aadesh/proj_ws/src/build/fk/build install --prefix /home/aadesh/proj_ws/src/install/fk --record /home/aadesh/proj_ws/src/build/fk/install.log --single-version-externally-managed
+[0.884s] running egg_info
+[0.884s] creating ../../../build/fk/fk.egg-info
+[0.884s] writing ../../../build/fk/fk.egg-info/PKG-INFO
+[0.884s] writing dependency_links to ../../../build/fk/fk.egg-info/dependency_links.txt
+[0.885s] writing entry points to ../../../build/fk/fk.egg-info/entry_points.txt
+[0.885s] writing requirements to ../../../build/fk/fk.egg-info/requires.txt
+[0.885s] writing top-level names to ../../../build/fk/fk.egg-info/top_level.txt
+[0.885s] writing manifest file '../../../build/fk/fk.egg-info/SOURCES.txt'
+[0.886s] reading manifest file '../../../build/fk/fk.egg-info/SOURCES.txt'
+[0.887s] writing manifest file '../../../build/fk/fk.egg-info/SOURCES.txt'
+[0.887s] running build
+[0.887s] running build_py
+[0.887s] creating /home/aadesh/proj_ws/src/build/fk/build
+[0.887s] creating /home/aadesh/proj_ws/src/build/fk/build/lib
+[0.887s] creating /home/aadesh/proj_ws/src/build/fk/build/lib/fk
+[0.887s] copying fk/end_pose.py -> /home/aadesh/proj_ws/src/build/fk/build/lib/fk
+[0.888s] copying fk/__init__.py -> /home/aadesh/proj_ws/src/build/fk/build/lib/fk
+[0.888s] running install
+[0.921s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.921s]   warnings.warn(
+[0.921s] running install_lib
+[0.922s] creating /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk
+[0.922s] copying /home/aadesh/proj_ws/src/build/fk/build/lib/fk/end_pose.py -> /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk
+[0.922s] copying /home/aadesh/proj_ws/src/build/fk/build/lib/fk/__init__.py -> /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk
+[0.923s] byte-compiling /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk/end_pose.py to end_pose.cpython-310.pyc
+[0.924s] byte-compiling /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk/__init__.py to __init__.cpython-310.pyc
+[0.924s] running install_data
+[0.925s] creating /home/aadesh/proj_ws/src/install/fk/share/ament_index
+[0.925s] creating /home/aadesh/proj_ws/src/install/fk/share/ament_index/resource_index
+[0.925s] creating /home/aadesh/proj_ws/src/install/fk/share/ament_index/resource_index/packages
+[0.925s] error: can't copy 'resource/fk': doesn't exist or not a regular file
+[0.948s] Invoked command in '/home/aadesh/proj_ws/src/rrbot_simulation_files/rrbot_simulation_files/fk' returned '1': PYTHONPATH=/home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/fk build --build-base /home/aadesh/proj_ws/src/build/fk/build install --prefix /home/aadesh/proj_ws/src/install/fk --record /home/aadesh/proj_ws/src/build/fk/install.log --single-version-externally-managed

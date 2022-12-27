@@ -1,0 +1,11 @@
+[1.785s] Invoking command in '/home/aadesh/proj_ws/src/rrbot_simulation_files/rrbot_simulation_files/fk': PYTHONPATH=/home/aadesh/proj_ws/src/install/varude_hw3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/varude_hw3 build --build-base /home/aadesh/proj_ws/src/build/varude_hw3/build install --prefix /home/aadesh/proj_ws/src/install/varude_hw3 --record /home/aadesh/proj_ws/src/build/varude_hw3/install.log --single-version-externally-managed
+[2.029s] running egg_info
+[2.029s] creating ../../../build/varude_hw3/varude_hw3.egg-info
+[2.030s] writing ../../../build/varude_hw3/varude_hw3.egg-info/PKG-INFO
+[2.030s] writing dependency_links to ../../../build/varude_hw3/varude_hw3.egg-info/dependency_links.txt
+[2.030s] writing entry points to ../../../build/varude_hw3/varude_hw3.egg-info/entry_points.txt
+[2.030s] writing requirements to ../../../build/varude_hw3/varude_hw3.egg-info/requires.txt
+[2.030s] writing top-level names to ../../../build/varude_hw3/varude_hw3.egg-info/top_level.txt
+[2.030s] writing manifest file '../../../build/varude_hw3/varude_hw3.egg-info/SOURCES.txt'
+[2.031s] error: package directory 'varude_hw3' does not exist
+[2.052s] Invoked command in '/home/aadesh/proj_ws/src/rrbot_simulation_files/rrbot_simulation_files/fk' returned '1': PYTHONPATH=/home/aadesh/proj_ws/src/install/varude_hw3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/varude_hw3 build --build-base /home/aadesh/proj_ws/src/build/varude_hw3/build install --prefix /home/aadesh/proj_ws/src/install/varude_hw3 --record /home/aadesh/proj_ws/src/build/varude_hw3/install.log --single-version-externally-managed

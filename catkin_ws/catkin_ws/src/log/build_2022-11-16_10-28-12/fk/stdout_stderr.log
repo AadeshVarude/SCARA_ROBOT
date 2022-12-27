@@ -1,0 +1,31 @@
+running egg_info
+creating ../../../build/fk/fk.egg-info
+writing ../../../build/fk/fk.egg-info/PKG-INFO
+writing dependency_links to ../../../build/fk/fk.egg-info/dependency_links.txt
+writing entry points to ../../../build/fk/fk.egg-info/entry_points.txt
+writing requirements to ../../../build/fk/fk.egg-info/requires.txt
+writing top-level names to ../../../build/fk/fk.egg-info/top_level.txt
+writing manifest file '../../../build/fk/fk.egg-info/SOURCES.txt'
+reading manifest file '../../../build/fk/fk.egg-info/SOURCES.txt'
+writing manifest file '../../../build/fk/fk.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/aadesh/proj_ws/src/build/fk/build
+creating /home/aadesh/proj_ws/src/build/fk/build/lib
+creating /home/aadesh/proj_ws/src/build/fk/build/lib/fk
+copying fk/end_pose.py -> /home/aadesh/proj_ws/src/build/fk/build/lib/fk
+copying fk/__init__.py -> /home/aadesh/proj_ws/src/build/fk/build/lib/fk
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk
+copying /home/aadesh/proj_ws/src/build/fk/build/lib/fk/end_pose.py -> /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk
+copying /home/aadesh/proj_ws/src/build/fk/build/lib/fk/__init__.py -> /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk
+byte-compiling /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk/end_pose.py to end_pose.cpython-310.pyc
+byte-compiling /home/aadesh/proj_ws/src/install/fk/lib/python3.10/site-packages/fk/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/aadesh/proj_ws/src/install/fk/share/ament_index
+creating /home/aadesh/proj_ws/src/install/fk/share/ament_index/resource_index
+creating /home/aadesh/proj_ws/src/install/fk/share/ament_index/resource_index/packages
+error: can't copy 'resource/fk': doesn't exist or not a regular file

@@ -1,0 +1,1 @@
+/home/aadesh/proj_ws/src/build/rrbot_gazebo/ament_cmake_environment_hooks/local_setup.zsh
